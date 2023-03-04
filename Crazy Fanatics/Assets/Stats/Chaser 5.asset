@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: Chaser 5
+  m_EditorClassIdentifier: 
+  id: 5
+  rewardXP: 3
+  rewardCoin: 4
+  onHitEffect: {fileID: 0}
+  rewardInventoryItem: {fileID: 0}
+  rewardInventoryItemChance: 0
+  Radius: 0.1
+  AttackDistance: 0.1
+  height: 0.7
+  scale: 1
+  attackSoundCode: 3
+  humanSkinA: 
+  skinA: {fileID: 4050143938589790694, guid: 4101f078ede692d41b7e26b004a7fb0a, type: 3}
+  humanSkinB: 
+  skinB: {fileID: 1339522991928270, guid: fea940ed39a88564eb7f89aa4663902b, type: 3}
+  maxlife: 14
+  damage: 4
+  defense: 0
+  charmNeeded: 999
+  hitTime: 0.3
+  speed: 0.8
+  protectFarSpeed: 1.2
+  protectionSpeed: 0.5
+  protectionVisionRange: 4
+  persecutionRange: 3
+  patrolWalkRange: 1
+  protectPatrolWalkRange: 4.01
+  decitionType: 2
+  onRestType: 2

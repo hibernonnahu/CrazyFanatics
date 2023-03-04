@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: Castle Destroyer 6
+  m_EditorClassIdentifier: 
+  id: 6
+  rewardXP: 6
+  rewardCoin: 4
+  onHitEffect: {fileID: 0}
+  rewardInventoryItem: {fileID: 1875621302386956, guid: 1566264bd87c4374aa0b14be5ea3f7cf,
+    type: 3}
+  rewardInventoryItemChance: 1
+  Radius: 0.1
+  AttackDistance: 0.1
+  height: 1.34
+  scale: 1
+  attackSoundCode: 3
+  humanSkinA: 
+  skinA: {fileID: 9201979791967494965, guid: 8e65310e7dd8e38469915410163a8157, type: 3}
+  humanSkinB: 
+  skinB: {fileID: 1339522991928270, guid: fea940ed39a88564eb7f89aa4663902b, type: 3}
+  maxlife: 165
+  damage: 40
+  defense: 5
+  charmNeeded: 999
+  hitTime: 1
+  speed: 0.14
+  protectFarSpeed: 1.2
+  protectionSpeed: 0.5
+  protectionVisionRange: 0
+  persecutionRange: 0
+  patrolWalkRange: 1
+  protectPatrolWalkRange: 4.01
+  decitionType: 2
+  onRestType: 5

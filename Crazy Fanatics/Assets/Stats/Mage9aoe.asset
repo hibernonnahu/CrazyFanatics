@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: Mage9aoe
+  m_EditorClassIdentifier: 
+  id: 9
+  rewardXP: 5
+  rewardCoin: 15
+  onHitEffect: {fileID: 0}
+  rewardInventoryItem: {fileID: 0}
+  rewardInventoryItemChance: 0
+  Radius: 0.1
+  AttackDistance: 0
+  height: 1.6
+  scale: 0.02
+  humanSkinA: 00000000050000000000000002000000ffffffff0500000000000000
+  skinA: {fileID: 1377771612852654, guid: 7d78daf945536a343a1c3cca1fa65777, type: 3}
+  humanSkinB: 
+  skinB: {fileID: 1493092345903700, guid: a50b65a8a288af744beb1f65a5a5289c, type: 3}
+  maxlife: 95
+  damage: 0
+  defense: 0
+  charmNeeded: 999
+  hitTime: 0.2
+  speed: 0
+  protectFarSpeed: 0
+  protectionSpeed: 0
+  protectionVisionRange: 0
+  persecutionRange: 0
+  patrolWalkRange: 0
+  protectPatrolWalkRange: 0
+  decitionType: 0
+  onRestType: 3

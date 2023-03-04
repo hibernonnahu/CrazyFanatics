@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: Weak
+  m_EditorClassIdentifier: 
+  id: 8
+  rewardXP: 1
+  rewardCoin: 0
+  onHitEffect: {fileID: 0}
+  rewardInventoryItem: {fileID: 1875621302386956, guid: 1566264bd87c4374aa0b14be5ea3f7cf,
+    type: 3}
+  rewardInventoryItemChance: 1
+  Radius: 0.3
+  AttackDistance: 0.3
+  height: 1.34
+  scale: 1
+  humanSkinA: 
+  skinA: {fileID: 4509790421087555717, guid: fe0df175d07d3d1458ffd73627296f06, type: 3}
+  humanSkinB: 
+  skinB: {fileID: 1493092345903700, guid: a50b65a8a288af744beb1f65a5a5289c, type: 3}
+  maxlife: 1
+  damage: 0
+  defense: 0
+  charmNeeded: 999
+  hitTime: 1
+  speed: -0.45
+  protectFarSpeed: 1.2
+  protectionSpeed: 0.5
+  protectionVisionRange: 7
+  persecutionRange: 3
+  patrolWalkRange: 0
+  protectPatrolWalkRange: 4.01
+  decitionType: 2
+  onRestType: 0

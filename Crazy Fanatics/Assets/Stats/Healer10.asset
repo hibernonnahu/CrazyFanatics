@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: Healer10
+  m_EditorClassIdentifier: 
+  id: 10
+  rewardXP: 3
+  rewardCoin: 1
+  onHitEffect: {fileID: 19839084, guid: a67ce15f50785584d97708026f874d99, type: 3}
+  rewardInventoryItem: {fileID: 0}
+  rewardInventoryItemChance: 0
+  Radius: 0.1
+  AttackDistance: 20
+  height: 2
+  scale: 0.016
+  humanSkinA: 0100000019000000000000000a000000ffffffff0500000000000000
+  skinA: {fileID: 1487658599924212, guid: 4b2581aad7f755d429bf5d58dada3212, type: 3}
+  humanSkinB: 01000000180000000100000009000000ffffffff0400000000000000
+  skinB: {fileID: 1487658599924212, guid: 1fb1ef121ac8cd94e9c15860dd4cd352, type: 3}
+  maxlife: 29
+  damage: 10
+  defense: 4
+  charmNeeded: 1
+  hitTime: 1.3
+  speed: 1
+  protectFarSpeed: 1.1
+  protectionSpeed: 0.3
+  protectionVisionRange: 10
+  persecutionRange: 20
+  patrolWalkRange: 2
+  protectPatrolWalkRange: 1
+  decitionType: 0
+  onRestType: 4

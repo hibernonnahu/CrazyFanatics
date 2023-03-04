@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 321c533cf85761d4eaff6b1c360fb069
+timeCreated: 1536892505
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BanTay_L
+    100002: BanTay_R
+    100004: Bone001
+    100006: Bone002
+    100008: Bone003
+    100010: Bone004
+    100012: Bone005
+    100014: Bone006
+    100016: Bung
+    100018: //RootNode
+    100020: Chan_L
+    100022: Chan_R
+    100024: Circle006
+    100026: Circle007
+    100028: Circle008
+    100030: Circle009
+    100032: Circle010
+    100034: Circle011
+    100036: Circle012
+    100038: Circle013
+    100040: Circle014
+    100042: Circle015
+    100044: Circle016
+    100046: Circle017
+    100048: Circle022
+    100050: Co
+    100052: Dau
+    100054: DauGoi_L
+    100056: DauGoi_R
+    100058: dk_all
+    100060: dk_Co
+    100062: Dummy_Bung
+    100064: Dummy_Co
+    100066: Ellipse001
+    100068: Ellipse002
+    100070: End_BanTay_L
+    100072: End_BanTay_R
+    100074: End_Dau
+    100076: End_KhuyuTay_L
+    100078: End_KhuyuTay_R
+    100080: End_NgonApUt_L
+    100082: End_NgonApUt_R
+    100084: End_NgonCai_L
+    100086: End_NgonCai_R
+    100088: End_NgonGiua_L
+    100090: End_NgonGiua_R
+    100092: End_NgonTro_L
+    100094: End_NgonTro_R
+    100096: End_NgonUt_L
+    100098: End_NgonUt_R
+    100100: IK Chain003
+    100102: IK Chain004
+    100104: IK Chain005
+    100106: IK Chain006
+    100108: KhuyuTay_L
+    100110: KhuyuTay_R
+    100112: Mong
+    100114: MuBanChan_L
+    100116: MuBanChan_R
+    100118: MuiChan_L
+    100120: MuiChan_R
+    100122: NgonApUt2_L
+    100124: NgonApUt2_R
+    100126: NgonApUt3_L
+    100128: NgonApUt3_R
+    100130: NgonApUt_L
+    100132: NgonApUt_R
+    100134: NgonCai2_L
+    100136: NgonCai2_R
+    100138: NgonCai3_L
+    100140: NgonCai3_R
+    100142: NgonCai_L
+    100144: NgonCai_R
+    100146: NgonGiua2_L
+    100148: NgonGiua2_R
+    100150: NgonGiua3_L
+    100152: NgonGiua3_R
+    100154: NgonGiua_L
+    100156: NgonGiua_R
+    100158: NgonTro2_L
+    100160: NgonTro2_R
+    100162: NgonTro3_L
+    100164: NgonTro3_R
+    100166: NgonTro_L
+    100168: NgonTro_R
+    100170: NgonUt2_L
+    100172: NgonUt2_R
+    100174: NgonUt3_L
+    100176: NgonUt3_R
+    100178: NgonUt_L
+    100180: NgonUt_R
+    100182: Nguc
+    100184: Object009
+    100186: Particle View 001
+    100188: QuaiXanh_L
+    100190: QuaiXanh_R
+    100192: Uc
+    100194: Vai_L
+    100196: Vai_R
+    100198: VRayLight001
+    100200: VRayLight002
+    100202: VRayLight003
+    100204: VRayLight004
+    400000: BanTay_L
+    400002: BanTay_R
+    400004: Bone001
+    400006: Bone002
+    400008: Bone003
+    400010: Bone004
+    400012: Bone005
+    400014: Bone006
+    400016: Bung
+    400018: //RootNode
+    400020: Chan_L
+    400022: Chan_R
+    400024: Circle006
+    400026: Circle007
+    400028: Circle008
+    400030: Circle009
+    400032: Circle010
+    400034: Circle011
+    400036: Circle012
+    400038: Circle013
+    400040: Circle014
+    400042: Circle015
+    400044: Circle016
+    400046: Circle017
+    400048: Circle022
+    400050: Co
+    400052: Dau
+    400054: DauGoi_L
+    400056: DauGoi_R
+    400058: dk_all
+    400060: dk_Co
+    400062: Dummy_Bung
+    400064: Dummy_Co
+    400066: Ellipse001
+    400068: Ellipse002
+    400070: End_BanTay_L
+    400072: End_BanTay_R
+    400074: End_Dau
+    400076: End_KhuyuTay_L
+    400078: End_KhuyuTay_R
+    400080: End_NgonApUt_L
+    400082: End_NgonApUt_R
+    400084: End_NgonCai_L
+    400086: End_NgonCai_R
+    400088: End_NgonGiua_L
+    400090: End_NgonGiua_R
+    400092: End_NgonTro_L
+    400094: End_NgonTro_R
+    400096: End_NgonUt_L
+    400098: End_NgonUt_R
+    400100: IK Chain003
+    400102: IK Chain004
+    400104: IK Chain005
+    400106: IK Chain006
+    400108: KhuyuTay_L
+    400110: KhuyuTay_R
+    400112: Mong
+    400114: MuBanChan_L
+    400116: MuBanChan_R
+    400118: MuiChan_L
+    400120: MuiChan_R
+    400122: NgonApUt2_L
+    400124: NgonApUt2_R
+    400126: NgonApUt3_L
+    400128: NgonApUt3_R
+    400130: NgonApUt_L
+    400132: NgonApUt_R
+    400134: NgonCai2_L
+    400136: NgonCai2_R
+    400138: NgonCai3_L
+    400140: NgonCai3_R
+    400142: NgonCai_L
+    400144: NgonCai_R
+    400146: NgonGiua2_L
+    400148: NgonGiua2_R
+    400150: NgonGiua3_L
+    400152: NgonGiua3_R
+    400154: NgonGiua_L
+    400156: NgonGiua_R
+    400158: NgonTro2_L
+    400160: NgonTro2_R
+    400162: NgonTro3_L
+    400164: NgonTro3_R
+    400166: NgonTro_L
+    400168: NgonTro_R
+    400170: NgonUt2_L
+    400172: NgonUt2_R
+    400174: NgonUt3_L
+    400176: NgonUt3_R
+    400178: NgonUt_L
+    400180: NgonUt_R
+    400182: Nguc
+    400184: Object009
+    400186: Particle View 001
+    400188: QuaiXanh_L
+    400190: QuaiXanh_R
+    400192: Uc
+    400194: Vai_L
+    400196: Vai_R
+    400198: VRayLight001
+    400200: VRayLight002
+    400202: VRayLight003
+    400204: VRayLight004
+    2100000: No Name
+    4300000: Object009
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

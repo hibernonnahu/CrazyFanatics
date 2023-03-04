@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: RobotTwoFaces3
+  m_EditorClassIdentifier: 
+  id: 3
+  rewardXP: 4
+  rewardCoin: 3
+  onHitEffect: {fileID: 0}
+  rewardInventoryItem: {fileID: 1875621302386956, guid: 1566264bd87c4374aa0b14be5ea3f7cf,
+    type: 3}
+  rewardInventoryItemChance: 1
+  Radius: 0.1
+  AttackDistance: 0.1
+  height: 1.34
+  scale: 1
+  attackSoundCode: 3
+  humanSkinA: 
+  skinA: {fileID: 4280482054736939527, guid: e9ce70b291e703841890bb16acc42544, type: 3}
+  humanSkinB: 
+  skinB: {fileID: 1543901466927432, guid: 353ccf8ab1711674cbb3020ad65258eb, type: 3}
+  maxlife: 16
+  damage: 4
+  defense: 4
+  charmNeeded: 999
+  hitTime: 0.6
+  speed: 0.9
+  protectFarSpeed: 1.2
+  protectionSpeed: 0.5
+  protectionVisionRange: 2
+  persecutionRange: 3
+  patrolWalkRange: 1.5
+  protectPatrolWalkRange: 1.5
+  decitionType: 2
+  onRestType: 0

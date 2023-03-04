@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbb42a776f7d9b49a777b8517dabdd2, type: 3}
+  m_Name: Victim 2
+  m_EditorClassIdentifier: 
+  id: 2
+  rewardXP: 2
+  rewardCoin: 3
+  rewardInventoryItem: {fileID: 0}
+  rewardInventoryItemChance: 0
+  Radius: 0.1
+  AttackDistance: 0.1
+  height: 1.34
+  skinA: {fileID: 1248969517380382, guid: 96b20a6111050e94a813c735306aa18f, type: 2}
+  skinB: {fileID: 1339522991928270, guid: fea940ed39a88564eb7f89aa4663902b, type: 2}
+  maxlife: 30
+  damage: 2
+  defense: 1
+  Charm: 0
+  charmCancel: 1000
+  charmDecrease: 1000
+  castTime: 1
+  speed: 0.4
+  protectFarSpeed: 1.2
+  protectionSpeed: 0.5
+  protectionVisionRange: 4
+  persecutionRange: 3
+  patrolWalkRange: 1
+  protectPatrolWalkRange: 4.01
+  decitionType: 2
+  onRestType: 0
