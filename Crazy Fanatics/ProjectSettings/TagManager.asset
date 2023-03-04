@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - node
+  - bounds
+  - mouseX
+  - maincharacter
+  - lifetext
+  - xptext
+  - lvltext
+  - lifebar
+  - xpbar
+  - lvlupicon
+  - maintext
+  - allytext
+  - goldtext
+  - castle
+  - exit
+  - intro
+  - charmedicon
+  - canvas
+  - skill
+  - healray
+  - textprefab
+  - prefab
+  - skillready
+  - allysgraphicui
+  - potion
+  - potionready
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - wall
+  - human
+  - victim
+  - node
+  - item
+  - exit
+  - tramp
+  - floor
+  - trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
